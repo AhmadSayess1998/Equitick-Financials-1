@@ -1,0 +1,34 @@
+.post {
+    /* margin: 0 auto; */
+    max-width: 1240px;
+    padding: 15px;
+    background-color: var(--background3);
+    transition: .5s;
+    height: 100%;
+}
+
+.post .post_table {
+    border-radius: 8px !important;
+    margin: 15px;
+}
+
+.post .post_table .button_table {
+    display: flex;
+    justify-content: center;
+}
+
+.model-title {
+    color: var(--textcolor1);
+    margin: 30px;
+    text-align: center;
+}
+
+.paginationBox {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+
+
+
